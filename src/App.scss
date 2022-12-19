@@ -1,0 +1,21 @@
+body {
+  background: #1e272e;
+}
+
+button {
+  background: #d1d8e0;
+  outline: none;
+  border: 1px transparent;
+  border-radius: 5px;
+  padding: 10px;
+
+  &:hover {
+    background: #e1e3e5;
+    cursor: pointer;
+  }
+}
+
+.App {
+  text-align: center;
+  color: #dfe4ea;
+}
